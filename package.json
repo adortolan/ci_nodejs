@@ -1,0 +1,17 @@
+{
+  "name": "ci_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Adilson Ortolan",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.4"
+  },
+  "devDependencies": {
+    "mocha": "^9.0.0"
+  }
+}
