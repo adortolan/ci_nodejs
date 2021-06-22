@@ -1,0 +1,6 @@
+projectKey=node-project
+serverUrl=http://172.17.0.2:9000
+serverVersion=8.9.1.44547
+dashboardUrl=http://172.17.0.2:9000/dashboard?id=node-project
+ceTaskId=AXodBmGOdFYj0rDpHzfO
+ceTaskUrl=http://172.17.0.2:9000/api/ce/task?id=AXodBmGOdFYj0rDpHzfO

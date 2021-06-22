@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "nyc --reporter=text mocha", "coverage": "nyc report --reporter=text-lcov | coveralls"
   },
   "author": "Adilson Ortolan",
   "license": "ISC",
@@ -12,6 +12,7 @@
     "chai": "^4.3.4"
   },
   "devDependencies": {
-    "mocha": "^9.0.0"
+    "mocha": "^9.0.0",
+    "nyc": "^15.1.0"
   }
 }
