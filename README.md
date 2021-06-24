@@ -12,3 +12,4 @@
 Foi adiconado ao projeto de CI o SonarCloud.
 - O SonarCloud é uma plataforma em nuvem para exibir o processo de inspeção continua do código de sua aplicação. Para isso, o SonarCloud utiliza o SonarQube para realizar a 
 “varredura” em seu código fonte e analisar possíveis vulnerabilidade, erros e regras específicas da linguagem (Code Smells)
+
